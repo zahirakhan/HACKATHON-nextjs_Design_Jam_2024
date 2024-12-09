@@ -22,7 +22,7 @@ export default function NewArrivalSection() {
             <h2 className="text-5xl font-semibold text-gray-800">Asgaard Sofa</h2>
             
             {/* Button */}
-            <Link href="/Shop">
+            <Link href="/SingleProductPage">
             <button className="mt-6 py-2 px-10 border-2  border-black text-black bg-transparent hover:bg-black hover:text-white transition duration-300">
               Shop Now
             </button>
