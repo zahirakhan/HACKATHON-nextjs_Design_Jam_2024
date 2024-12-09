@@ -3,7 +3,7 @@ import Image from 'next/image'
 
 export default function Hero2() {
   return (
-    <div className="bg-[#ffffff] py-12 px-4 sm:px-6 md:px-8 lg:px-36 mx-auto max-w-screen-lg">
+    <div className="bg-[#FAF4F4] py-12 px-4 sm:px-6 md:px-8 lg:px-36 mx-auto max-w-screen-lg">
 
       {/* Side tables section */}
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-6">

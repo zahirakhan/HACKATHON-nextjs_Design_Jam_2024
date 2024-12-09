@@ -21,7 +21,7 @@ export default function BlogSection() {
     ];
   
     return (
-      <section className="py-12 px-6 max-w-full overflow-hidden">
+      <section className="py-12 px-6 max-w-full overflow-hidden bg-white">
         <div className="text-center">
           <h2 className="text-3xl font-bold text-black">Our Blogs</h2>
           <p className="text-gray-600 mt-2">
